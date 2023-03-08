@@ -1,0 +1,424 @@
+{
+    "widgets": [
+        {
+            "name": "widget001.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget002.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget003.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget004.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget005.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget006.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget007.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget008.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget009.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget010.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget011.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget012.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget013.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget014.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget015.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget016.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget017.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget018.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget019.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget020.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget021.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget022.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget023.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget024.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget025.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget026.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget027.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget028.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget029.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget030.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget031.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget032.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget033.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget034.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget035.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget036.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget037.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget038.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget039.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget040.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget041.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget042.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget043.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget044.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget045.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget046.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget047.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget048.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget049.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget050.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget051.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget052.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget053.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget054.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget055.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget056.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget057.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget058.kwgt",
+            "description": "Este es un widget de reloj",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget059.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+        {
+            "name": "widget060.kwgt",
+            "description": "Este es un widget de clima",
+            "author": "Akustom15",
+            "version": "1.0",
+            "thumbnail": "https://ruta/a/thumbnail.jpg"
+        },
+    ]
+}
